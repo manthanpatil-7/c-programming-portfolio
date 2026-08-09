@@ -1,0 +1,52 @@
+=== BroBank ===
+Current balance: $0.00
+
+1. Deposit
+2. Withdraw
+3. Show Balance
+4. Sorted Statement
+5. Save & Quit
+Choice: Deposit amount: $Deposit successful. Balance: $250.00
+
+1. Deposit
+2. Withdraw
+3. Show Balance
+4. Sorted Statement
+5. Save & Quit
+Choice: Withdrawal amount: $Withdrawal successful. Balance: $174.50
+
+1. Deposit
+2. Withdraw
+3. Show Balance
+4. Sorted Statement
+5. Save & Quit
+Choice: Withdrawal amount: $Insufficient funds. Withdrawal rejected.
+
+1. Deposit
+2. Withdraw
+3. Show Balance
+4. Sorted Statement
+5. Save & Quit
+Choice: Deposit amount: $Deposit successful. Balance: $214.75
+
+1. Deposit
+2. Withdraw
+3. Show Balance
+4. Sorted Statement
+5. Save & Quit
+Choice: Sorted transactions: -75.50 40.25 250.00
+Net change this session: $214.75
+
+1. Deposit
+2. Withdraw
+3. Show Balance
+4. Sorted Statement
+5. Save & Quit
+Choice: Balance: $214.75
+
+1. Deposit
+2. Withdraw
+3. Show Balance
+4. Sorted Statement
+5. Save & Quit
+Choice: Balance saved. Goodbye!
