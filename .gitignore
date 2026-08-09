@@ -1,0 +1,13 @@
+# Build artifacts
+*.o
+*.out
+brobank
+early_program
+midcourse_program
+
+# Runtime data files created by BroBank
+brobank_data.txt
+transactions.txt
+
+# OS cruft
+.DS_Store
